@@ -67,11 +67,11 @@ time_format_blog = "2006.01.02"
 [[languages.en.menu.main]]
 name = "Documentation"
 weight = 20
-url = "https://cloudruntime.net/docs/"
+url = "https://cloudruntime.net/docs/en/"
 [[languages.en.menu.main]]
 name = "Development"
 weight = 30
-url = "https://cloudruntime.net/devdocs/"
+url = "https://cloudruntime.net/devdocs/en/"
 
 [languages.zh-cn]
 languageName ="中文"
